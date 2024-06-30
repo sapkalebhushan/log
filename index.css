@@ -1,0 +1,31 @@
+body{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+section{
+    width: 350px;
+    height: 350px;
+    color: black;
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+.box1{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    flex-wrap: wrap;
+    height: 70%;
+
+
+}
+button{
+    border-radius: 22%;
+    height: 35px;
+    width: 120px;
+    background-color: rgb(162, 255, 0);
+}
